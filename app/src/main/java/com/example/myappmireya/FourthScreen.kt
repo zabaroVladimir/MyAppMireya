@@ -25,6 +25,7 @@ fun FourthScreen(navController: NavHostController) {
         verticalArrangement = Arrangement.Top,
         horizontalAlignment = Alignment.Start
     ) {
+        //Hola
         Text(text = "")
         Text(text = "HABITATGE", style = TextStyle(fontWeight = FontWeight.Bold))
         Text(text = "¿Qué es?", style = TextStyle(fontWeight = FontWeight.Bold))

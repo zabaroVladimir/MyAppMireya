@@ -26,6 +26,7 @@ fun SecondScreen(navController: NavHostController) {
         verticalArrangement = Arrangement.Top,
         horizontalAlignment = Alignment.Start
     ) {
+        //COmo estas ? -+
         Text(text = "")
         Text(text = "¿Qué es? ", style = TextStyle(fontWeight = FontWeight.Bold))
         Text(text = "Informan sobre recursos, prestaciones y servicios a los que tenéis derecho a acceder como ciudadanos de Barcelona. Para poder recibir prestaciones económicas, ayuda, orientación y asesoramiento en servicios de atención básica es necesario acudir a Serveis Socials.")

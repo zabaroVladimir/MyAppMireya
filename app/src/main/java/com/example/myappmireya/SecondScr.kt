@@ -25,6 +25,7 @@ fun SecondScr(navController: NavHostController) {
         verticalArrangement = Arrangement.Top,
         horizontalAlignment = Alignment.Start
     ) {
+        Hola +-
         Text(text = "")
         Text(text = "SARA", style = TextStyle(fontWeight = FontWeight.Bold))
         Text(text = "•  Ofrece asistencia personalizada a mujeres víctimas de violencia de género.\n•  Asesoramiento jurídico.\n•  Asesoramiento psicológico.\n• Acceso a sistemas de protección específicos.\n•  Inserción laboral.")

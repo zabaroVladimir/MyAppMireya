@@ -117,6 +117,8 @@ fun MainScreen(navController: NavHostController) {
         Box(modifier = Modifier
             .fillMaxSize()
             .padding(16.dp)
+
+            //"Button Placement"
             .offset(x = 54.dp, y = 430.dp)) { Box(modifier = Modifier
             .size(40.dp)
 
